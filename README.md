@@ -8,7 +8,7 @@ Systems analyst with a focus on ERP, SPED. Technologies: Rest, Soap, application
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562984843150&text=Olá!)](https://api.whatsapp.com/send?phone=5562984843150&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvairsilverio@gmail.com)](mailto:silvairsilverio@gmail.com)
 
-I have some ideas shared [here.](https://www.profissionaisti.com.br/author/silvair-leite-soares/ "Heading link")
+I have some ideas shared [here](https://www.profissionaisti.com.br/author/silvair-leite-soares/ "Heading link") and [here.](https://dev.to/silvairsoares)
 
 <svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
