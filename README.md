@@ -10,4 +10,12 @@ Systems analyst with a focus on ERP, SPED. Technologies: Rest, Soap, application
 
 I have some ideas shared [here.](https://www.profissionaisti.com.br/author/silvair-leite-soares/ "Heading link")
 
+<svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
 
+      
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=silvairleitesoares" target="_blank">Follow on LinkedIn</a>
+    </div>
+  </foreignObject>
+</svg>
